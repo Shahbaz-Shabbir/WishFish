@@ -1,6 +1,6 @@
 #!/bin/bash
 # Inspired by: github.com/thelinuxchoice/saycheese
-# Modified by: github.com/ZerobirCS/WF
+# Modified by: github.com/ZerobirCS/WishFish
 
 trap 'printf "\n";stop' 2
 

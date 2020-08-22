@@ -36,4 +36,4 @@ $ bash wishfish.sh
 
                                                Shahbaz Shabbir (Computer Software Engineer)
                                                
-                                            Inspired By github.com/ZeroBitCS By Shahbaz Shabbir
+                                          

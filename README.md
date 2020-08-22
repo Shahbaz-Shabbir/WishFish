@@ -5,6 +5,15 @@
 
 <h3>Installation</h3>
 
+$ Pkg update
+
+$ Pkg upgrade
+
+$ Pkg install git
+
+$ 
+
+$
 $ apt install php
 
 $ apt install wget
@@ -14,11 +23,17 @@ $ apt install openssh
 $ git clone https://github.com/ZerobitCS/WishFish
 
 <h3>Usage</h3>
+$ ls
 
 $ cd wishfish
+
+$ ls
 
 Now turn your device hotspot
 
 $ bash wishfish.sh
+
+
                                                Shahbaz Shabbir (Computer Software Engineer)
+                                               
                                             Inspired By github.com/ZeroBitCS By Shahbaz Shabbir

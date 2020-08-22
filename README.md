@@ -11,7 +11,7 @@ $ apt install wget
 
 $ apt install openssh
 
-$ git clone https://github.com/ZerobitCS/WF
+$ git clone https://github.com/ZerobitCS/WishFish
 
 <h3>Usage</h3>
 
@@ -20,5 +20,5 @@ $ cd wishfish
 Now turn your device hotspot
 
 $ bash wishfish.sh
-
+                                               Shahbaz Shabbir (Computer Software Engineer)
                                             Inspired By github.com/ZeroBitCS By Shahbaz Shabbir

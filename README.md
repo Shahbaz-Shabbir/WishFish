@@ -20,7 +20,7 @@ $ apt install wget
 
 $ apt install openssh
 
-$ git clone https://github.com/ZerobitCS/WishFish
+$ git clone https://github.com/Shahbaz-Shabbir/WishFish
 
 <h3>Usage</h3>
 $ ls

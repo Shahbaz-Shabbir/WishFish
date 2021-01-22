@@ -11,9 +11,6 @@ $ Pkg upgrade
 
 $ Pkg install git
 
-$ 
-
-$
 $ apt install php
 
 $ apt install wget
